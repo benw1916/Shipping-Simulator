@@ -1,0 +1,28 @@
+Turn based game based on ship being boarded will go here.
+
+Depending on the armament that you have aboard, will be allowed to repel the
+invaders.
+
+You can install barbed wire, water cannons to repel the invaders while they are
+not onboard yet.  You can also shoot at them.
+
+You can buy flare guns, GPS units, upgrade your radio and see if you can contact
+the coast guard while you're almost being boarded.
+
+Depending on your captain's sight score, you may not know how many are aboard.
+
+Their goal is to damage the bridge and the engine room, these need to be protected
+the most. If they take over the ship, it's game over.
+
+Pistols, AKs, RPGs, if you don't have any of those, you can pick up random crap
+from inside the ship.
+
+
+    ||
+  __||__
+ |     /
+ |    |                              ________
+_|    |_____________________________/       /
+|          |                      |        /
+| _________|______________________|_______/
+|__________|______________________|______/
